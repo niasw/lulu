@@ -16,7 +16,7 @@ def luluSmooth(matrix_data, order=3, mode="W"):
 #   variation reduction properties
 #
 # For more details, this paper introduced it very well:
-#   Jankowitz, M. (2019). Some statistical aspects of LULU smoothers. 
+#   Jankowitz, M. (2007). Some statistical aspects of LULU smoothers. 
 #
 # Definiton:
 #   (Vn x)[i] := min(x[i-n], ..., x[i])
